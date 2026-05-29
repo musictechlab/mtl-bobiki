@@ -1,4 +1,7 @@
 # Bobik Fights With The Dragon 🐉
+
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 Bobiki: A simple game built using Pygame. In this game, players control a character named Bobiki, who must defeat a dragon to win the game.
 
 ![Game Screenshot](screenshot.png)
